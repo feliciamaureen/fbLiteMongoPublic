@@ -1,0 +1,256 @@
+@import url(//fonts.googleapis.com/css?family=Source+Sans+Pro:700);
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+button{
+    background-color:white; 
+    border:1px solid #333745;
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* appHome */
+.appHome{
+    font-family: 'Source Sans Pro', sans-serif; 
+}
+
+.loginBanner h1{
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 1.5px;
+    padding: 50px 20px 20px 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.loginForm{
+    background-color: white;
+    text-align: center;
+    width: 300px;
+    border: 1px solid #011936;
+    padding: 50px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.loginForm h3{
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.loginButton {
+    background-color:white; 
+    border:1px solid #333745;
+    color: black;
+    padding: 5px 24px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+/* main */
+.banner h1{
+	color:black;
+	font-size:50px;
+	padding-top:30px;
+
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    line-height: 50px;  
+    letter-spacing: 1.5px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.mainpage{
+    height: 500px;
+    width: 100%;
+    float: left;
+
+    text-align: center;
+}
+
+.leftpane{
+    height:500px;
+    width:25%;
+    float:left;
+
+} 
+
+.middle{
+    height:500px;
+    width:50%;
+    float:left;
+}
+
+.rightPane{
+    height:500px;
+    width:25%;
+    float:right;
+}
+
+textarea{
+    resize: none;
+    background-color:white; 
+    border:1px solid #333745;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.postButton {
+    background-color:white; 
+    border:1px solid #333745;
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.leftpane h2{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.leftpane a {
+    background-color: white;
+    border:1px solid #333745;
+    color: black;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+
+
+
+.middle h2{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.middle h3{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.rightPane h2{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.rightPane h4{
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.bottomRightPane input[type=text]{
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+
+
+/* register */
+.regForm{
+    background-color: white;
+    width: 300px;
+    border: 1px solid #011936;
+    padding: 50px 50px 80px 50px;
+    height: 300px;
+    margin: 0 auto;
+
+    text-align: left;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.register h1{
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 1.5px;
+    padding: 50px 20px 20px 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.registerError{
+    color: red;
+}
+
+.regButton{
+    padding: 20px 110px;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.registerButton {
+    background-color:white; 
+    border:1px solid #333745;
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* profileMaintenence */
+
+.profileMaintenence{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.profileMaintenence h1{
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 1.5px;
+    padding: 30px 20px 20px 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.updateForm{
+    background-color: white;
+    width: 300px;
+    border: 1px solid #011936;
+    padding: 80px 50px 80px 50px;
+    height: 300px;
+    margin: 0 auto;
+
+    text-align: left;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.updateButton {
+    background-color:white; 
+    border:1px solid #333745;
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
